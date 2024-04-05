@@ -1,0 +1,10 @@
+test1:
+  goingfrom: MEL
+  goingto: JFK
+  date: 27/03/2024
+  stops: 1 Stop
+test2:
+  goingfrom: New Delhi
+  goingto: JFK
+  date: 17/04/2024
+  stops: 2 Stop
